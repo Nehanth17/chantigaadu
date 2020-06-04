@@ -1,0 +1,25 @@
+body{
+	background-color: #91DDAA;
+}
+#main{
+	background-color: pink;
+	margin: 2%;
+	display: flex;
+	justify-content:space-around;
+	border-radius: 4%;
+
+	
+
+}
+.card{
+	background-color: red;
+	width: 25;
+	border-radius: 4%;
+	box-shadow: 4px 4px 7px 7px;
+}
+img{
+	border-radius: 5%;
+}
+a{
+	color: black; 
+}

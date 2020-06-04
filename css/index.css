@@ -1,18 +1,13 @@
-#main{
-	width: 100%;
-	justify-content: space-around;
+
+.center {
+
+  margin: auto;
+  background: lime;
+  width: 66%;
 }
 .card{
-	width: 30%;
-	background-color: #aaa;
-	text-align: center;
-	margin: 0 auto
-	border: 1px solid #aaaaaa;
-	border-radius: 30% 0;
-	box-shadow: 6px 6px 6px 3px;
+	background-color: pink;
 }
-.card>img
-{
- width: 50%;
- height: 50%;
+.card:hover{
+	color: #91DDAA;
 }
