@@ -1,0 +1,16 @@
+.main{
+	display: flex;
+	border: 2px solid #000;
+	]
+}
+.one{
+
+	border: 5px dotted red;
+	margin: 2px;
+	flex-wrap: wrap;
+}
+.two{
+	border: 2px solid blue;
+	margin: 2px;
+	flex-wrap: wrap;
+}

@@ -1,0 +1,39 @@
+body{
+	background-color:#2EFEF7;
+	padding: 4%;
+}
+.xyz{
+	background-color: pink;
+	border-radius: 4%;
+	justify-content: space-between;
+	display: flex;
+}
+.abcd{
+	background-color: #F8ECE0;
+	border-radius: 5%;
+	box-shadow: 4px 4px 7px 7px;
+	width: 20%;
+	margin: 20%;
+    }
+.asd{
+	background-color: #F8ECE0;
+	width: 60%;
+}
+.qwe{
+	width: 60%;
+}
+@media (min-width: 320px) and (max-width: 480px){
+.abcd{
+	background-color: #F8ECE0;
+	border-radius: 5%;
+	box-shadow: 4px 4px 7px 7px;
+	width: 25%;
+	margin: 25px 100px 500px 100px;
+    }
+.asd{
+	background-color: #F8ECE0;
+	width: 400px;
+}
+}
+
+
