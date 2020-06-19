@@ -7,6 +7,7 @@ body{
 	border-radius: 4%;
 	justify-content: space-between;
 	display: flex;
+	
 }
 .abcd{
 	background-color: #F8ECE0;
@@ -33,6 +34,15 @@ body{
 .asd{
 	background-color: #F8ECE0;
 	width: 400px;
+}
+}
+@media (min-width: 481px) and (max-width: 780px){
+	.xyz{
+		flex-direction: column;
+
+	}
+.a{
+	
 }
 }
 

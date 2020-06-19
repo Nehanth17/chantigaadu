@@ -1,25 +1,19 @@
 body{
 	background-color: #91DDAA;
 }
-#main{
+.main{
 	background-color: pink;
 	margin: 2%;
 	display: flex;
 	justify-content:space-around;
 	border-radius: 4%;
+	border: 2px solid;
 
 	
 
 }
-.card{
+.left{
 	background-color: red;
-	width: 25;
-	border-radius: 4%;
-	box-shadow: 4px 4px 7px 7px;
-}
-img{
-	border-radius: 5%;
-}
-a{
-	color: black; 
+	border: 5px solid black;
+	
 }

@@ -1,0 +1,24 @@
+{
+	"persondata": {
+		"name": "ravindra",
+		"mobile":"646549841"
+
+	},
+	"cardsdata": [
+		{
+			"name": "rajesh",
+			"email": "rajesh@gmail.com",
+			"mobile": "548461586"
+		},
+		{
+			"name": "locsl",
+			"email": "rajesh@gmail.com",
+			"mobile": "548461586"
+		},
+		{
+			"name": "billa",
+			"email": "rajesh@gmail.com",
+			"mobile": "548461586"
+		}
+	]
+}
