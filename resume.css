@@ -15,34 +15,33 @@ body{
 	box-shadow: 4px 4px 7px 7px;
 	width: 20%;
 	margin: 20%;
+	word-wrap: break-word;
     }
 .asd{
 	background-color: #F8ECE0;
 	width: 60%;
+	word-wrap: break-word;
 }
 .qwe{
 	width: 60%;
 }
 @media (min-width: 320px) and (max-width: 480px){
 .abcd{
-	background-color: #F8ECE0;
+	background-color: #39FBDC ;
 	border-radius: 5%;
 	box-shadow: 4px 4px 7px 7px;
 	width: 25%;
 	margin: 25px 100px 500px 100px;
+	
     }
 .asd{
 	background-color: #F8ECE0;
 	width: 400px;
-}
-}
-@media (min-width: 481px) and (max-width: 780px){
-	.xyz{
-		flex-direction: column;
 
-	}
-.a{
-	
+}
+.xyz{
+	flex-direction: column;
+
 }
 }
 
